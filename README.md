@@ -49,6 +49,10 @@ python engine/render.py <工程目录> --serve
 
 `references/analysis.md`、`references/prompts.md` 里按成片填好的 brief，以及 `examples/stim_B`、`info_C`，字幕和画面设计来自他人的短片，版权属于原作者。这两段是学习对照，不要当成自己的作品发布。
 
+## 联系
+
+微信号 Yangdavee，备注来意。
+
 ## 友情链接
 
 https://linux.do/
